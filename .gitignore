@@ -1,0 +1,66 @@
+# ---------------[ Unity generated ]------------------ #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+UnityGenerated/
+
+# ----[ BuildFiles ]------- #
+Bin/
+
+# ----[ Visual Studio / MonoDevelop generated ]------- #
+  
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+  
+# -------------[ OS generated ]------------------------ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+ 
+# -------------[ Build ]------------------------ #
+#*.html
+AppDebugUserId.text
+gmcs.rsp*
+smcs.rsp*
+Bin/
+
+# -------------[ Add Extra files ]------------ #
+# ---[Files Name]--- #
+SoukaikanPj01/SoukaikanPj01/Library/metadata/[0123456789][0123456789]/*[0123456789][0123456789][0123456789]
+assetDatabase3
+
+# ---[Files Extension]--- #
+*.dll
+*.mdb
+*.sln
+*.csproj
+
+AudioManager.asset
+DynamicsManager.asset
+EditorBuildSettings.asset
+EditorSettings.asset
+GraphicsSettings.asset
+InputManager.asset
+NavMeshAreas.asset
+NetworkManager.asset
+Physics2DSettings.asset
+ProjectSettings.asset
+ProjectVersion.txt
+QualitySettings.asset
+TagManager.asset
+TimeManager.asset
+UnityAdsSettings.asset
+UnityAnalyticsManager.asset
